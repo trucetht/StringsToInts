@@ -1,0 +1,12 @@
+/Users/trevor/Projects/StringsToInts/StringsToInts/bin/Debug/netcoreapp3.1/StringsToInts.deps.json
+/Users/trevor/Projects/StringsToInts/StringsToInts/bin/Debug/netcoreapp3.1/StringsToInts.runtimeconfig.json
+/Users/trevor/Projects/StringsToInts/StringsToInts/bin/Debug/netcoreapp3.1/StringsToInts.runtimeconfig.dev.json
+/Users/trevor/Projects/StringsToInts/StringsToInts/bin/Debug/netcoreapp3.1/StringsToInts.dll
+/Users/trevor/Projects/StringsToInts/StringsToInts/bin/Debug/netcoreapp3.1/StringsToInts.pdb
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.csprojAssemblyReference.cache
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.AssemblyInfoInputs.cache
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.AssemblyInfo.cs
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.csproj.CoreCompileInputs.cache
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.dll
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.pdb
+/Users/trevor/Projects/StringsToInts/StringsToInts/obj/Debug/netcoreapp3.1/StringsToInts.genruntimeconfig.cache
